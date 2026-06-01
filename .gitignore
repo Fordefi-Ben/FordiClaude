@@ -1,0 +1,11 @@
+# Runtime artifacts from the fordefi-api-docs skill
+.claude/skills/fordefi-api-docs/.openapi_cache.json
+.claude/skills/fordefi-api-docs/.openapi_manifest.json
+.claude/skills/fordefi-api-docs/.docs_index_cache.json
+
+# API tokens — never commit
+.env
+*.env
+
+# Local settings overrides (API keys, personal permissions)
+.claude/settings.local.json

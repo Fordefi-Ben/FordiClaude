@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 .claude/skills/fordefi-api-docs/fordefi_api.py *)",
+      "Bash(python3 .claude/skills/fordefi-explorer/fordefi_explorer.py *)"
+    ]
+  }
+}
